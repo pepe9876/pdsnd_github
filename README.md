@@ -10,7 +10,7 @@ The project examines bike sharing data of the following US cities.
 * Washington
 * New York City
 
-It allows fo filter for months and days if needed and returns statistical numbers, such as **average rental time**.
+It allows fo filter for months and days, if needed and returns statistics, such as **most popular stations** or **average trip durations**.
 
 ### Files used
 * chicago.csv
