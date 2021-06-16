@@ -8,12 +8,14 @@ Bike Sharing US
 The prject examines bike sharing data of 3 different US cities. It allows fo filter for months and days if needed and returns statistical data.
 
 ### Files used
-chicago.csv
-washington.csv
-new_york_city.csv
+* chicago.csv
+* washington.csv
+* new_york_city.csv
 
-These files are not pushed to github.
+_These files are not pushed to github._
 
 ### Credits
-Project is based on https://github.com/udacity/pdsnd_github.git
-https://github.com/udacity/ud777-writing-readmes.git
+Project is based on
+* [Udacity Python Course](https://classroom.udacity.com)
+* [Udacity GitHub Project](https://github.com/udacity/pdsnd_github.git)
+* [Udacity README Course](https://github.com/udacity/ud777-writing-readmes.git)
