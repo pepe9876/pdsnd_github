@@ -5,7 +5,12 @@ June 2021
 Bike Sharing US
 
 ### Description
-The prject examines bike sharing data of 3 different US cities. It allows fo filter for months and days if needed and returns statistical data.
+The project examines bike sharing data of the following US cities.
+* Chicago
+* Washington
+* New York City
+
+It allows fo filter for months and days if needed and returns statistical numbers, such as **average rental time**.
 
 ### Files used
 * chicago.csv
